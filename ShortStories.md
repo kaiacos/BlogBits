@@ -11,4 +11,4 @@ No, some have thought about this before. The occasional finder doesn’t want to
 For the wish to be granted, the finder must leave their world. No goodbyes can be said, no arguments resolved. They will live to see their wish fulfilled, but not among those who helped them dream of it. Those few will wonder why the finder never returned from their regular walk on the dusty streets, why messages and enquiries were never returned. Those affected by the wish might choose someone to thank, a deity usually, or might remain oblivious. The world of the finder will change in other ways. Some might move on. The finder never can; they remain tied to their world, but unable to enter it, as though they are glued to the outside of a snowglobe. Forced to spiral through identities, the finder will only be able to touch the lives of those they knew for a moment at a time. Those with mysterious disappearances in the family often remark on the kindness of strangers. Some will choose to live this life for one wish instead of three.
 Those who wish for superiority over others are incinerated on the spot.
 
-![bookstore](bookstore.jpg)
+![bookstore](img/bookstore.jpg)
